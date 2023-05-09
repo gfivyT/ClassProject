@@ -1,3 +1,7 @@
+#Grant Funkhouser
+#5/8/2023
+#Batch Formation GUI
+#Allows cataloging of specimens to be shipped out to other facilities
 from tkinter import *
 from PIL import ImageTk, Image
 from datetime import date

@@ -1,5 +1,1 @@
-2023-05-08
-
-[Technician: 004], [Test: Comprehensive Metabolic Profile], [Physician: Dr. Gregory House], [Reference Lab: ARUP Lab], [Stability Temperature: Ambient], [Processng Requirements: NoSpin]
-
-[Technician: 002], [Test: Hemoglobin A1C], [Physician: Dr. John Dorian], [Reference Lab: ARUP Lab], [Stability Temperature: Refrigerated], [Processng Requirements: Spin]
+<built-in method today of type object at 0x00007FFB06148620>
