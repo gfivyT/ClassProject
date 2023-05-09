@@ -1,1 +1,0 @@
-<built-in method today of type object at 0x00007FFB06148620>
