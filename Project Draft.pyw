@@ -1,6 +1,5 @@
 from tkinter import *
 from PIL import ImageTk, Image
-from datetime import date
 
 #lists for  drop menus
 tech = ["001", "002", "003", "004", "005"]
@@ -14,7 +13,6 @@ req = ["Spin", "NoSpin"]
 #Resets Result File
 def erase():
     docuW = open("BatchPrint.txt", "w")
-    docuW.write(str(date.today))
     docuW.close()
 
 #Window Creation
