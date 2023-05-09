@@ -1,0 +1,7 @@
+2023-05-09
+
+[Technician: 002], [Test: Comprehensive Metabolic Profile], [Physician: Dr. John Dorian], [Reference Lab: ARUP Lab], [Stability Temperature: Refrigerated], [Processng Requirements: Spin]END OF LOG
+
+[Technician: 002], [Test: Hemoglobin A1C], [Physician: Dr. Frasier Crane], [Reference Lab: ARUP Lab], [Stability Temperature: Frozen], [Processng Requirements: Spin]END OF LOG
+
+[Technician: 003], [Test: Hemoglobin A1C], [Physician: Dr. Miranda Bailey], [Reference Lab: ARUP Lab], [Stability Temperature: Refrigerated], [Processng Requirements: Spin]END OF LOG
