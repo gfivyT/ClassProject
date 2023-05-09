@@ -1,2 +1,0 @@
-# ClassProject
-Tkinter GUI project
